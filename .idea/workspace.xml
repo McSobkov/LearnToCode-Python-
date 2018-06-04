@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="238f8ec7-f66d-4179-9262-1eef5261c91d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Functions and Methods Homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork_Notes/Class Object Attribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork_Notes/OOP Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Tic-Tac-Toe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Functions and Methods Homework.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Functions and Methods Homework.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/Functions and Methods Homework.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="411">
@@ -23,6 +24,33 @@
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tic-Tac-Toe.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/Tic-Tac-Toe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-741">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OOP Intro.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classwork_Notes/OOP Intro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class Object Attribute.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classwork_Notes/Class Object Attribute.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -45,6 +73,9 @@
         <option value="$PROJECT_DIR$/Lambda Expressions.py" />
         <option value="$PROJECT_DIR$/Nested Statements and Scope.py" />
         <option value="$PROJECT_DIR$/Homework/Functions and Methods Homework.py" />
+        <option value="$PROJECT_DIR$/Projects/Tic-Tac-Toe.py" />
+        <option value="$PROJECT_DIR$/Classwork_Notes/OOP Intro.py" />
+        <option value="$PROJECT_DIR$/Classwork_Notes/Class Object Attribute.py" />
       </list>
     </option>
   </component>
@@ -53,12 +84,14 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,12 +102,18 @@
             <path>
               <item name="LearnToCode-Python-" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnToCode-Python-" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Classwork_Notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnToCode-Python-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnToCode-Python-" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,7 +131,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Functions and Methods Homework">
+  <component name="RunManager" selected="Python.Class Object Attribute">
+    <configuration name="Class Object Attribute" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearnToCode-Python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classwork_Notes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classwork_Notes/Class Object Attribute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Functions and Methods Homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnToCode-Python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +186,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Nested Statements and Scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OOP Intro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnToCode-Python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +194,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classwork_Notes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nested Statements and Scope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classwork_Notes/OOP Intro.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Tic-Tac-Toe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearnToCode-Python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projects/Tic-Tac-Toe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,14 +224,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Lambda Expressions" />
-      <item itemvalue="Python.Nested Statements and Scope" />
       <item itemvalue="Python.Functions and Methods Homework" />
+      <item itemvalue="Python.Tic-Tac-Toe" />
+      <item itemvalue="Python.OOP Intro" />
+      <item itemvalue="Python.Class Object Attribute" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Class Object Attribute" />
+        <item itemvalue="Python.OOP Intro" />
+        <item itemvalue="Python.Tic-Tac-Toe" />
         <item itemvalue="Python.Functions and Methods Homework" />
         <item itemvalue="Python.Lambda Expressions" />
-        <item itemvalue="Python.Nested Statements and Scope" />
       </list>
     </recent_temporary>
   </component>
@@ -175,15 +254,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947807" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947807" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50104386" side_tool="true" visible="true" weight="0.40343347" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49895614" visible="true" weight="0.40343347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -201,27 +281,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lambda Expressions.py">
+    <entry file="file://$PROJECT_DIR$/Homework/Functions and Methods Homework.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Nested Statements and Scope.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="77" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lambda Expressions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lambda Expressions.py" />
+    <entry file="file://$PROJECT_DIR$/Nested Statements and Scope.py" />
+    <entry file="file://$PROJECT_DIR$/Lambda Expressions.py" />
     <entry file="file://$PROJECT_DIR$/Homework/Functions and Methods Homework.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
@@ -229,6 +301,27 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/Tic-Tac-Toe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classwork_Notes/OOP Intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classwork_Notes/Class Object Attribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
